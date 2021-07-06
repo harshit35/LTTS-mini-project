@@ -1,2 +1,2 @@
-# LTTS-mini-project
+# Mini-project
 C application project
