@@ -39,7 +39,7 @@
 
 Build | Code Quality | Unit Testing | [Git Inspector](github.io option) | Code Coverage
 ------|----------|-------|--------------|--------|
-
+[![C/C++ CI](https://github.com/harshit35/Mini-project-stepin/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/harshit35/Mini-project-stepin/actions/workflows/c-cpp.yml) |  [![Code Quality - Static Code - Cppcheck](https://github.com/harshit35/Mini-project-stepin/actions/workflows/cppCheck.yml/badge.svg)](https://github.com/harshit35/Mini-project-stepin/actions/workflows/cppCheck.yml) <br> [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/harshit35/Mini-project-stepin/actions/workflows/code_quality.yml/badge.svg)](https://github.com/harshit35/Mini-project-stepin/actions/workflows/code_quality.yml) <br> [![Code Quality Score](https://www.code-inspector.com/project/24887/score/svg)](https://frontend.code-inspector.com/public/project/24887/C-Mini-Project/dashboard) | [![Unit Testing-Unity](https://github.com/harshit35/Mini-project-stepin/actions/workflows/unity.yml/badge.svg)](https://github.com/harshit35/Mini-project-stepin/actions/workflows/unity.yml) | [![Contribution Check - Git Inspector](https://github.com/harshit35/Mini-project-stepin/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/harshit35/Mini-project-stepin/actions/workflows/git_inspector.yml) | [![CI-Coverage](https://github.com/harshit35/Mini-project-stepin/actions/workflows/gcov.yml/badge.svg)](https://github.com/harshit35/Mini-project-stepin/actions/workflows/gcov.yml)
 
 ## How to run the application
 
