@@ -60,5 +60,7 @@ Folder                | Description
 `6_ImagesAndVideos`   | For showing working and for easily understanding
 `7_Other`             | Used for Extra work on project for changing or modifying
 
+## SWOT Analysis
+
 ![SWOT](https://github.com/harshit35/Mini-project-stepin/blob/main/7_Other/SWOT.png)
 
