@@ -37,7 +37,7 @@
 
 ## Badges
 
-Build | Code Quality | Unit Testing | [Git Inspector](github.io option) | Code Coverage
+Build | Code Quality | Unit Testing | Git Inspector | Code Coverage
 ------|----------|-------|--------------|--------|
 
 
