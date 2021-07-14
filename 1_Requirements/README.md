@@ -1,48 +1,16 @@
-# Requirements 
-## Introduction
-* This project is a contact management system application created in C language.
-* The application lets users manage their contact book efficiently.
- 
-## Features of the System
-The platform contains the following features:-
-* Add a new Contact
-* List all Contacts
-* Search for a Contact
-* Edit a Contact
-* Delete a Contact
+# Requirements
 
-## Who:
-* This application can be used by anyone who wants to manage his/her contacts
+## High Level Requirements
 
-## What:
-* The application lets the user manage his/her contacts efficiently
- 
-## Where:
-* It can be used across all platforms
-
-## When:
-* When it become hard for the person the remember all his contacts  
-
-## How:
-* The user selects the operation that he/she wants to do with the contact list (add/delete/check contacts) 
-
-# Detail requirements
-## High Level Requirements:
-
-ID   | Description              |
------| -------------------------|
-HR01 | Add a new contact        |
-HR02 | List all Contacts        |
-HR03 | Search for a Contact     |
-HR04 | Edit a Contact           |
-HR05 | Delete a Contact         |
+1. Basic header files which include functionalities for standard input/output, dynamic memory allocation, structures, pointers, looping statements such as for, while, switch-case, if and else-if ladder.
 
 
-##  Low level Requirements:
+## Low Level Requirements
 
-ID   | Description                            | HRID |
------| ---------------------------------------| -----|
-LR01 | Check number of contacts in the list   | HR02 |
-LR02 | Check for a Contact in the list        | HR02 |
-LR03 | Check for a Contact in the list        | HR04 |
-LR04 | Check for a Contact in the list        | HR05 |
+1. The following header files were required:-
+   * <stdio.h> - to make use of standard input/output functions
+   * <string.h> - to make use of string functions
+   * <stdlib.h> - for dynamic memory allocation, pointers and system functions for the console window
+2. The user must enter a choice from the menu shown.
+3. Based on the choice entered by the user, system shall proceed accordingly and gives a proper result.
+
