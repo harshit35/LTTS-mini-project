@@ -1,7 +1,7 @@
 /**
  * @file delay.c
  * @author Harshit Singh
- * @brief To delay program to visualize user and getting proper user interface
+ * @brief To delay program to visualize and get proper user interface
  * @version 0
  * @date 2021-07-04
  * 

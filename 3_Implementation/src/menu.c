@@ -1,7 +1,7 @@
 /**
  * @file menu.c
  * @author Harshit Singh
- * @brief Shows All the menu options
+ * @brief Shows the menu options to user
  * @version 0
  * @date 2021-07-03
  * 

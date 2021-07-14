@@ -1,7 +1,7 @@
 /**
  * @file changeRec.c
  * @author Harshit Singh
- * @brief It changes/uppdate record of exsisting customer/user
+ * @brief Change/update details of existing customer/user
  * @version 0
  * @date 2021-07-03
  * 

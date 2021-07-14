@@ -1,7 +1,7 @@
 /**
  * @file interest.c
  * @author Harshit Singh
- * @brief Calculates interset for money deposited in account
+ * @brief Calculates interest on money present in account
  * @version 0
  * @date 2021-07-04
  * 

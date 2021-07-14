@@ -13,5 +13,5 @@
 
 void closeProg(void)
 {
-    printf("Thank You !\n\n");
+    printf("Thank You !!\n\n");
 }

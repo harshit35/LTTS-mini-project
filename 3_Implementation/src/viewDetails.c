@@ -1,7 +1,7 @@
 /**
  * @file viewDetails.c
  * @author Harshit Singh
- * @brief Viewing specific account details by validiating with name or account number
+ * @brief View details of a specific account by checking with name or account number
  * @version 0
  * @date 2021-07-04
  * 

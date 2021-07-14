@@ -1,7 +1,7 @@
 /**
- * @file test_bankManagementSystem.c
- * @author Sumit Bhimte
- * @brief defile all testcases and run it
+ * @file test_bankingApplication.c
+ * @author Harshit Singh
+ * @brief Define all testcases and run it
  * @version 0
  * @date 2021-07-05
  * 

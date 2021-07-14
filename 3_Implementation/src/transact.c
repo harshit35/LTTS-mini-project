@@ -1,9 +1,9 @@
 /**
  * @file transact.c
  * @author Harshit Singh
- * @brief It does transactions in account 
+ * @brief It does the following transactions in account 
  *          1. Deposit
- *          2. Credit
+ *          2. Withdraw
  * @version 0
  * @date 2021-07-04
  * 
