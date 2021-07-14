@@ -60,5 +60,3 @@ Folder                | Description
 `6_ImagesAndVideos`   | For showing working and for easily understanding
 `7_Other`             | Used for Extra work on project for changing or modifying
 
-
-![SWOT](https://github.com/sumitbhimte/C-Mini-Project/blob/main/6_ImagesAndVideos/SWOT%20Analysis.png?raw=true)
