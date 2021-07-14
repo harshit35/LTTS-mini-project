@@ -1,6 +1,6 @@
 /**
  * @file interest.c
- * @author Sumit Bhimte
+ * @author Harshit Singh
  * @brief Calculates interset for money deposited in account
  * @version 0
  * @date 2021-07-04

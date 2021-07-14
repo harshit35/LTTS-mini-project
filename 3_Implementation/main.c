@@ -1,6 +1,6 @@
 /**
  * @file main.c
- * @author Sumit Bhimte
+ * @author Harshit Singh
  * @brief Main function of the program
  * @version 0
  * @date 2021-07-03

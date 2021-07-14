@@ -1,8 +1,7 @@
 /**
  * @file bank.h
- * @author Sumit Bhimte
- * @brief HeaderFile Includes all functions prototype 
- *        and some of global variable declaration and structures
+ * @author Harshit Singh
+ * @brief HeaderFile Includes all functions prototype and some of global variable declaration and structures
  * @version 0
  * @date 2021-07-03
  * 

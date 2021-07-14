@@ -1,7 +1,7 @@
 #Targetname : dependencies
 #<TAB>command
 
-TEST_PROJ_NAME = BankManagementSystem
+TEST_PROJ_NAME = BankingApplication
 BUILD_DIR = Build
 CFLAGS = -Wall -g
 

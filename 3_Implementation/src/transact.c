@@ -1,6 +1,6 @@
 /**
  * @file transact.c
- * @author Sumit Bhimte
+ * @author Harshit Singh
  * @brief It does transactions in account 
  *          1. Deposit
  *          2. Credit

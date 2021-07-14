@@ -1,6 +1,6 @@
 /**
  * @file erase.c
- * @author Sumit Bhimte
+ * @author Harshit Singh
  * @brief Delete the record of user from database of bank
  * @version 0
  * @date 2021-07-04

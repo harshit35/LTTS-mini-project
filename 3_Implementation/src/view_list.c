@@ -1,6 +1,6 @@
 /**
  * @file view_list.c
- * @author Sumit Bhimte
+ * @author Harshit Singh
  * @brief Showing Full list of Account holders in bank
  * @version 0
  * @date 2021-07-04

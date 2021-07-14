@@ -1,6 +1,6 @@
 /**
  * @file changeRec.c
- * @author Sumit Bhimte
+ * @author Harshit Singh
  * @brief It changes/uppdate record of exsisting customer/user
  * @version 0
  * @date 2021-07-03

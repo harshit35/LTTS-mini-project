@@ -1,6 +1,6 @@
 /**
  * @file close.c
- * @author Sumit Bhimte
+ * @author Harshit Singh
  * @brief Close Program with Greeting msg
  * @version 0
  * @date 2021-07-03

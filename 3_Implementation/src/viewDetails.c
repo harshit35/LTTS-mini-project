@@ -1,8 +1,7 @@
 /**
  * @file viewDetails.c
- * @author Sumit Bhimte
- * @brief Viewing specific account details by 
- *        validiating with name or account number
+ * @author Harshit Singh
+ * @brief Viewing specific account details by validiating with name or account number
  * @version 0
  * @date 2021-07-04
  * 

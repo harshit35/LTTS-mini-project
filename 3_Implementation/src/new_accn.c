@@ -1,6 +1,6 @@
 /**
  * @file new_accn.c
- * @author Sumit Bhimte
+ * @author Harshit Singh
  * @brief Creates new account and details saved in records.dat file
  * @version 0
  * @date 2021-07-04
